@@ -1,4 +1,4 @@
-# Software Engineering Intern - Front End
+# Software Engineering Intern - Front-End
 
 DataOne Innovation Labs interview challenge for Software Engineering Intern - Front End Candidate
 
