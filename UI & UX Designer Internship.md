@@ -4,7 +4,7 @@ DataOne Innovation Labs interview challenge for UI & UX Designer Intern - React 
 
 This repository contains an intro challange for UI & UX Designer who want to join [DataOne Innovation Labs](http://dataone.io).
 
-### So you want to prove you're worthy to join DataOne? Awesome
+### So you want to prove you're worthy to join DataOne? Awesome!
 
 ### Task
 
