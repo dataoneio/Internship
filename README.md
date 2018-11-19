@@ -12,6 +12,8 @@ Here are the list of the internship challenges. Please choose one of the followi
 * [Mobile App Development](https://github.com/dataoneio/Internship/blob/master/Mobile%20Development%20Internship%20Task.md)
 * [Frontend Programming](https://github.com/dataoneio/Internship/blob/master/front-end-development-internship-task.md)
 * [UX/UI Design](https://github.com/dataoneio/Internship/blob/master/UI%20%26%20UX%20Designer%20Internship.md)
+* [Data Science & ML](https://github.com/dataoneio/Internship/blob/master/Data-science%20%26%20ML%20Internship%20task.md)
+
 
 After the completion of the challenge, please write an email at contact[at]dataone.io with the subject line - Internship Application for <Name of the position you're applying for>. The submission of multiple incomplete or poor solutions will weaken your application. 
 
