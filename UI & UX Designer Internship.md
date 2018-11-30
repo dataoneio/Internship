@@ -2,30 +2,27 @@
 
 DataOne Innovation Labs interview challenge for UI & UX Designer Intern - React Native  
 
-This repository contains an intro challange for UI & UX Designer who want to join [DataOne Innovation Labs](http://dataone.io).
+This repository contains an introductory challenge for UI & UX designer who wants to join [DataOne Innovation Labs](http://dataone.io).
 
 ### So you want to prove you're worthy to join DataOne? Awesome!
 
 ### Task
 
-- You need to redesign these 2 screen pages. 
+- You need to redesign these two screen pages. 
 
-- You can add user experience to the screen, its upon you to how to make best 
-user experience of it  and make neat and clean design.
+- You can add components to enhance the usability of the screen, it is upon you to decide how to design the page such that it develops the best user experience out of it. Strive to make neat and clean design.
 
 ### 1. Mobile App screen
 
-- Think that your project manager given you a task to  design app for restaurant chain created refrence link https://itunes.apple.com/bm/app/skilletnow/id1079791064?mt=8
+- Consider that your project manager assigns you the task of designing an application for a restaurant chain. [Consider for example.](https://itunes.apple.com/bm/app/skilletnow/id1079791064?mt=8)
  
-The task is to redesign the landing page to add “Delivery” and “Catering” options. As you can see currently it’s only “Pickup” and shows a special slider with pictures. You have complete freedom to completely change the page or make additions to existing design.
-
+Redesign the landing page to facilitate “Delivery” and “Catering” options. As you can see from the existing design referenced below, currently there is only “Pickup” option and a special slider with pictures. You have complete freedom to decide the approach of either completely changing  the page or make additions to existing design.
 ![Mobile App](https://github.com/dataoneio/Internship/blob/master/mobile%20application.png)
 
 ### 2. Website single page
-- You need to redesign this 1 page of website and it should look neat and clean. You can do whatever changes you can do to it.
+- You need to redesign the landing page of our website [Shoppr](https://shoppr.ai/). You have freedom to make the desired changes to it. 
 
-- Finish the design and send us RAW files and  executable files in zip folder or share Goolge Drive/ Dropbox link with us.
-
+- Complete this designing task and either send us RAW and Executable files in zip folder or share the Google Drive/Dropbox link with us.
 
 Feel free to ask questions. 
 
