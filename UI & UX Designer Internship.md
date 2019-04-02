@@ -14,10 +14,9 @@ This repository contains an introductory challenge for UI & UX designer who want
 
 ### 1. Mobile App screen
 
-- Consider that your project manager assigns you the task of designing an application for a restaurant chain. [Consider for example.](https://itunes.apple.com/bm/app/skilletnow/id1079791064?mt=8)
+- Consider that your project manager assigns you the task of designing an application for analytical dashboard. [Consider for example.](https://cdn.dribbble.com/users/37501/screenshots/6225421/dashboard-4.jpg)
  
-Redesign the landing page to facilitate “Delivery” and “Catering” options. As you can see from the existing design referenced below, currently there is only “Pickup” option and a special slider with pictures. You have complete freedom to decide the approach of either completely changing  the page or make additions to existing design.
-![Mobile App](https://github.com/dataoneio/Internship/blob/master/mobile%20application.png)
+Redesign the landing page to facilitate “Delivery” and “Catering” options. As you can see from the existing design referenced below, currently there is only “Pickup” option and a special slider with pictures. You have complete freedom to decide the approach of either completely changing  the page or make additions to existing design. [Mobile App Video Example](https://cdn.dribbble.com/users/43602/videos/1792/adobe-xd-eugene-olefir.mp4) 
 
 ### 2. Website single page
 - You need to redesign the landing page of our website [Shoppr](https://shoppr.ai/). You have freedom to make the desired changes to it. 
